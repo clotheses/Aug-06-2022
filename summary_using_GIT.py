@@ -11,6 +11,12 @@ then initialize the repository (on the left; source control )
 
 after that, figure how how to click COMMIT (git COMMIT) and publish it (Linux); connect to Github just by clicks
 
+wrtie something for Commit and click SYNS CHANGE 
+
+
+
+
+
 note:
 
 touch
